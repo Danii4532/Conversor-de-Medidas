@@ -1,6 +1,5 @@
 # Conversor-de-Medidas
-
-Este projeto converter vários tipos de medidas de forma rápida e super simples.<br>
+Este projeto converte vários tipos de medidas de forma rápida e super simples.<br>
 <br>
 <h2>Como Funciona</h2>
 Ao iniciar, o código vai perguntar ao usuário o seguinte:<br>
